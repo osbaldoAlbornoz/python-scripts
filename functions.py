@@ -1,18 +1,3 @@
-# Funciones V5
-
-#ejemplo de funcion
-
-# def Mensaje():
-# 	print("Aprendiendo Python")
-# 	print("Aprendiendo lo basico")
-# 	print("Aprendiendo poco a poco")
-# finaliza la funcion aqui, no se especifica donde finaliza solo salir de iden
-
-#Mensaje()
-
-#-------------------------------------------------------------
-
-
 
 #Funciones con parametros V6
 #sin return
