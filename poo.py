@@ -1,6 +1,6 @@
 # V26 poo clases
 
-# ********Muy importante este video******
+# ********Muy importante ******
 
 class Coche():
 	largoChasis=250
